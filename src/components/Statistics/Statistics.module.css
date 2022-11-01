@@ -18,14 +18,15 @@
     justify-content: center;
     height: 60px;
     width: 60px;
+    background-color: orange;
   }
   .label {
     margin-bottom: 7px;
     font-size: 12px;
-    color: #fafafa;
+    color: black;
   }
   .percentage {
     font-size: 16px;
     font-weight: 400;
-    color: #fafafa;
+    color: black;
   }
