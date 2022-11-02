@@ -27,9 +27,4 @@ Statistics.propTypes = {
   percentage: PropTypes.number.isRequired,
 };
 
-Statistics.defaultProps = {
-  title: '',
-  label: 'format',
-};
-
 export default Statistics;
